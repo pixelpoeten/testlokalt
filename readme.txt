@@ -1,1 +1,1 @@
-Min første test av git.
+Min første test av git. Den er bra.
